@@ -1,0 +1,20 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": ""
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2017/huskies-pick-em"
+    }
+  },
+  "title": "Huskies pick 'em: How will UW do in 2017?",
+  "description": "Think you’ve got what it takes to guess UW's 2017 season correctly?",
+  "url": "http://projects.seattletimes.com/2017/huskies-pick-em/",
+  "image": "assets/uwsocial.jpg",
+  "sheets": ["1LzJGBVcgqy5szfcX8m7RX1wajXlHNk9N_D8NqP8hnAI"],
+  "standout": false,
+  "embedded": false,
+  "production": true
+}

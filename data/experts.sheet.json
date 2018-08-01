@@ -1,0 +1,72 @@
+{
+  "adam": {
+    "name": "Adam Jude",
+    "comment": "The defense should once again be the best in the Pac-12, and with Jake Browning, Myles Gaskin and Dante Pettis all back the UW offense has a chance to be even better in 2017. This UW team looks like a legitimate national-title contender.\n",
+    "wins": 11,
+    "loss": 1,
+    "title": "UW reporter"
+  },
+  "percy": {
+    "name": "Percy Allen",
+    "comment": "Other than a Sept. 23 trip to Colorado, which is rematch of last year's Pac-12 title game, Washington isn't expected to face much resistance in the first half of the season. The Huskies are loaded with veteran stars at nearly every position, including  junior quarterback Jake Browning, a Heisman Trophy finalist last year, and senior linebacker Azeem Victor, a preseason All-American. Last season's run to the CFP semifinals was an unexpected surprise, but in reality fourth-year coach Chris Petersen built the roster expecting a return to national prominence in 2017.",
+    "wins": 12,
+    "loss": 0,
+    "title": "UW reporter"
+  },
+  "bob": {
+    "name": "Bob Condotta",
+    "comment": "Huskies have a favorable regular season schedule and an experienced quarterback and what should still be a solid enough of an overall roster to run the table. Anything can obviously happen, but the conference doesn't seem as deep at the moment and UW appears the class of the North and better than anyone else aside from USC.",
+    "wins": 12,
+    "loss": 0,
+    "title": "Staff reporter"
+  },
+  "larry": {
+    "name": "Larry Stone",
+    "comment": "Despite substantial departures, the Huskies are loaded once again and poised to romp through their Pac-12 schedule. Stanford will be highly motivated to avenge last year’s 44-6 loss, and the fact the game will be played on The Farm makes it the most likely source of a blemish. A potential Pac-12 title matchup with USC looms as the potential game of the year not just in the conference, but in college football.",
+    "wins": 11,
+    "loss": 1,
+    "title": "Columnist"
+  },
+  "matt": {
+    "name": "Matt Calkins",
+    "comment": "Until proven otherwise, I have no reason to doubt Chris Petersen. The Huskies have lost big-name talent before and recovered just fine. I imagine they will do so again this season, and though Stanford on the road will be a significant test, UW should prevail to reach their second straight Pac-12 championship game. But that's where things will get dicey. By the end of the season last year, USC was the the best team in the conference and will be even better this year. Don't count on UW getting back to the playoffs despite having just one loss.",
+    "wins": 12,
+    "loss": 0,
+    "title": "Columnist"
+  },
+  "paul": {
+    "name": "Paul Barrett",
+    "comment": "The Huskies – with lots of talent and a favorable schedule – should cruise through most of the season before winning close games over Stanford and WSU. But USC will stop them in the Pac-12 title game, and prevent them from claiming a College Football Playoff spot.",
+    "wins": 12,
+    "loss": 0,
+    "title": "Sports Editor"
+  },
+  "scott": {
+    "name": "Scott Hanson",
+    "comment": "The Huskies will make it back to the Pac-12 title game, but they will lose to the Trojans.",
+    "wins": 11,
+    "loss": 1,
+    "title": "Assistant Sports Editor"
+  },
+  "jon": {
+    "name": "Jon Wilner",
+    "comment": "Maybe the schedule will prove stouter than it looks. Maybe one or two of the fair-to-middlin’ opponents will turn out to be a level better than expected. But if not, the Huskies will be stuffed with creampuffs by the time the Pac-12 title game arrives. A very good team blitzing through a very soft schedule.",
+    "wins": 11,
+    "loss": 1,
+    "title": "College sports reporter"
+  },
+  "sean": {
+    "name": "Sean Quinton",
+    "comment": "The Huskies haven't had expectations this high since the days of the Don James, and those expectations are well deserved. The defensive front will be stifling, and the offensive dynamic. The biggest question mark will be whether the Dawgs can overcome the loss of five players to the NFL, including their best offensive weapon in John Ross.",
+    "wins": 11,
+    "loss": 1,
+    "title": "Sports Producer"
+  },
+  "evan": {
+    "name": "Evan Webeck",
+    "comment": "The Huskies are an immensely talented team with one of college football's top coaches and one of its weakest schedules. A loss along the way isn't out of the question, but this is a team on a mission. They're headed back to the College Football Playoff.",
+    "wins": 12,
+    "loss": 0,
+    "title": "Associate Sports producer"
+  }
+}

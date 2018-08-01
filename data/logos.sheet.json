@@ -1,0 +1,38 @@
+{
+  "Rutgers": {
+    "logo": "rutgers.png"
+  },
+  "Montana": {
+    "logo": "montana.png"
+  },
+  "Fresno State": {
+    "logo": "fresno.png"
+  },
+  "Colorado": {
+    "logo": "colorado.png"
+  },
+  "Oregon State": {
+    "logo": "oregonstate.png"
+  },
+  "Cal": {
+    "logo": "cal.png"
+  },
+  "Arizona State": {
+    "logo": "arizonastate.png"
+  },
+  "UCLA": {
+    "logo": "ucla.png"
+  },
+  "Oregon": {
+    "logo": "oregon.png"
+  },
+  "Stanford": {
+    "logo": "stanford.png"
+  },
+  "Utah": {
+    "logo": "utah.png"
+  },
+  "Washington State": {
+    "logo": "wsu.png"
+  }
+}
