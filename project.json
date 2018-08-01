@@ -6,15 +6,15 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": "2017/huskies-pick-em"
+      "path": "2018/seattle-seahawks-pick-em"
     }
   },
-  "title": "Huskies pick 'em: How will UW do in 2017?",
-  "description": "Think you’ve got what it takes to guess UW's 2017 season correctly?",
-  "url": "http://projects.seattletimes.com/2017/huskies-pick-em/",
+  "title": "Seahawks pick 'em: How will the new-look Hawks do this season?",
+  "description": "Think you’ve got what it takes to guess the Seahawks' 2018 season correctly?",
+  "url": "http://projects.seattletimes.com/2018/seattle-seahawks-pick-em/",
   "image": "assets/uwsocial.jpg",
-  "sheets": ["1LzJGBVcgqy5szfcX8m7RX1wajXlHNk9N_D8NqP8hnAI"],
+  "sheets": ["1zpjDI59FfxhfrYENRXzyua6KtklHQer_c6xAspyGito"],
   "standout": false,
   "embedded": false,
-  "production": true
+  "production": false
 }
