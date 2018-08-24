@@ -14,9 +14,9 @@
       <div class="outer">
 
         <h1 class="headline">Seahawks pick 'em</h1>
-        <h2 class="subhead">How will the new-look Hawks do in this season?</h2>
+        <h2 class="subhead">How will the new-look Hawks do this season?</h2>
         <p class="chatter">
-          Fresh off a College Football Playoff appearance, the Huskies are reloaded and ready for big things in 2017. Think you’ve got what it takes to guess the UW's 2017 season correctly? Put your football knowledge to the test by picking the winner of each game this season, then see how your preseason picks stack up against our experts at The Seattle Times.
+          There's no more Richard Sherman. No more Michael Bennett. Kam Chancellor's gone, too. But Russell Wilson and Pete Carroll are still here and they've got a young and hungry bunch of sidekicks. Think you’ve got what it takes to guess the Hawks' 2018 season correctly? Put your football knowledge to the test by picking the winner of each game this season, then see how your preseason picks stack up against our experts at The Seattle Times.
         </p>
 
         <div class="container">
@@ -28,7 +28,7 @@
                   <div class="info">
                   <strong> WEEK <%= r.game %> </strong>  <br> <%= r.date %> <br><%= r.station %> <br>
                   <% if (r.result == "W" || r.result == "L") { %>
-                  <div class="score"> <%= r.result == "W" ? "Huskies win" : r.result == "L" ? "Huskies lose" : ""  %> <%= r.score %> </div>
+                  <div class="score"> <%= r.result == "W" ? "Seahawks win" : r.result == "L" ? "Seahawks lose" : ""  %> <%= r.score %> </div>
                   <%  } %>
                   </div>
                    <br>
@@ -36,7 +36,7 @@
 
                   <% if (r.location == "home") { %>
                   <div class="home">
-                    <img class="logo team <%= r.result == "W" ? "won" : "" %> <%= r.result == "L" ? "faded" : "" %> " src="./assets/uw.png" data-game="<%= r.game %>" data-prediction="W"><div class="team"> Huskies</div>
+                    <img class="logo team <%= r.result == "W" ? "won" : "" %> <%= r.result == "L" ? "faded" : "" %> " src="./assets/seahawks.png" data-game="<%= r.game %>" data-prediction="W"><div class="team"> Seahawks</div>
                   </div>
                   <div class="location-container">
                     <div class="location"><%= r.location == "home" ? "vs." : "@" %></div>
@@ -46,7 +46,7 @@
                   </div>
                 <%  } else { %>
                   <div class="home">
-                     <img class="logo team <%= r.result == "W" ? "won" : "" %> <%= r.result == "L" ? "faded" : "" %>" src="./assets/uw.png" data-game="<%= r.game %>" data-prediction="W"> <div class="team"> Huskies</div>
+                     <img class="logo team <%= r.result == "W" ? "won" : "" %> <%= r.result == "L" ? "faded" : "" %>" src="./assets/seahawks.png" data-game="<%= r.game %>" data-prediction="W"> <div class="team"> Seahawks</div>
                   </div>
                   <div class="location-container">
                     <div class="location"><%= r.location == "home" ? "VS." : "@" %></div>
@@ -67,7 +67,7 @@
                     <% for (var k in json.experts) { %>
                       <div class="experts-box">
                         <%= json.experts[k].name %>
-                        <img class="logo prediction" src="./assets/<%= r[k] == "W" ? "uw.png" : json.logos[r.opponent].logo %>">
+                        <img class="logo prediction" src="./assets/<%= r[k] == "W" ? "seahawks.png" : json.logos[r.opponent].logo %>">
                       </div>
                     <% } %>
                   </div>

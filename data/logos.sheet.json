@@ -1,38 +1,41 @@
 {
-  "Rutgers": {
-    "logo": "rutgers.png"
+  "49ers": {
+    "logo": "49ers.png"
   },
-  "Montana": {
-    "logo": "montana.png"
+  "Cardinals": {
+    "logo": "cardinals.png"
   },
-  "Fresno State": {
-    "logo": "fresno.png"
+  "Rams": {
+    "logo": "rams.png"
   },
-  "Colorado": {
-    "logo": "colorado.png"
+  "Broncos": {
+    "logo": "broncos.png"
   },
-  "Oregon State": {
-    "logo": "oregonstate.png"
+  "Bears": {
+    "logo": "bears.png"
   },
-  "Cal": {
-    "logo": "cal.png"
+  "Cowboys": {
+    "logo": "cowboys.png"
   },
-  "Arizona State": {
-    "logo": "arizonastate.png"
+  "Raiders": {
+    "logo": "raiders.png"
   },
-  "UCLA": {
-    "logo": "ucla.png"
+  "Lions": {
+    "logo": "lions.png"
   },
-  "Oregon": {
-    "logo": "oregon.png"
+  "Chargers": {
+    "logo": "chargers.png"
   },
-  "Stanford": {
-    "logo": "stanford.png"
+  "Packers": {
+    "logo": "packers.png"
   },
-  "Utah": {
-    "logo": "utah.png"
+  "Panthers": {
+    "logo": "panthers.png"
   },
-  "Washington State": {
-    "logo": "wsu.png"
+  "Vikings": {
+    "logo": "vikings.png"
+  },
+  "Chiefs": {
+    "logo": "chiefs.png"
   }
 }
