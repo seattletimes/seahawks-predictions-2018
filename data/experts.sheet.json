@@ -1,6 +1,9 @@
 {
   "bob": {
     "name": "Bob Condotta",
+    "comment": "For all that the Seahawks no longer have — the mainstays of the Legion of Boom and what was maybe the best pass-rush duo in team history — they still have one of the best quarterbacks in the NFL in Russell Wilson. And that alone should keep the Seahawks in most games. Seattle also should be better in special teams this year. But the Seahawks are counting on a lot of players to take significant leaps to be able to get back to double-digit wins and the schedule doesn’t seem to offer a lot of easy wins.",
+    "wins": 9,
+    "loss": 7,
     "title": "Seahawks beat writer"
   },
   "mike": {
@@ -19,6 +22,9 @@
   },
   "matt": {
     "name": "Matt Calkins",
+    "comment": "The Seahawks have just lost too much. With Richard Sherman, Kam Chancellor and presumably Earl Thomas out, the cornerstones of what may have been the greatest secondary in history are all gone. Add a missing Cliff Avril and Michael Bennett, and you have a defense virtually relying on linebackers Bobby Wagner and K.J. Wright. Russell Wilson is still one of the best quarterbacks in football, but with the offensive line and run game still unproven, this team will struggle to put points on the board.",
+    "wins": 7,
+    "loss": 9,
     "title": "Columnist"
   },
   "paul": {
@@ -44,8 +50,9 @@
   },
   "evan": {
     "name": "Evan Webeck",
-    "wins": 10,
-    "loss": 6,
+    "comment": "For all the talk of the last few years of the coming end of an era and a closing of a window, it appears to have finally arrived. Sure, Russell and Pete are still here — that's enough of a spark for a rebuilt, underdogs-again supporting cast to piece together a competitive season and give fans a faint sense of familiarity. Inevitably, it will feel different when the story is no longer the boom, but the bust.",
+    "wins": 9,
+    "loss": 7,
     "title": "Digital Sports Producer"
   }
 }

@@ -6,15 +6,15 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": "2018/seattle-seahawks-pick-em"
+      "path": "2018/sports/seattle-seahawks-pick-em"
     }
   },
   "title": "Seahawks pick 'em: How will the new-look Hawks do this season?",
   "description": "Think you’ve got what it takes to guess the Seahawks' 2018 season correctly?",
-  "url": "http://projects.seattletimes.com/2018/seattle-seahawks-pick-em/",
-  "image": "assets/uwsocial.jpg",
+  "url": "http://projects.seattletimes.com/2018/sports/seattle-seahawks-pick-em/",
+  "image": "assets/seahawkssocial.jpg",
   "sheets": ["1zpjDI59FfxhfrYENRXzyua6KtklHQer_c6xAspyGito"],
   "standout": false,
   "embedded": false,
-  "production": false
+  "production": true
 }
